@@ -11,7 +11,7 @@ inputs:
   output_dir:
     description: 'Output folder for the generated documentation'
     required: false
-  tsconfig_file:
+  tsconfig:
     description: 'The path to a tsconfig.json file. Defaults to ./tsconfig.json'
     required: false
   options:
